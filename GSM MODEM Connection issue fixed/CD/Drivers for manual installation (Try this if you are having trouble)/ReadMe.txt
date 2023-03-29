@@ -1,0 +1,1 @@
+Right click the EXE file in both of these folders and select "Run as administrator"

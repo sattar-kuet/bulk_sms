@@ -1,0 +1,1 @@
+Right click the EXE file and select "Run as administrator"
